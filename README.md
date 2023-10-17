@@ -3,6 +3,9 @@
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
 
+
+And I like dogs!
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)

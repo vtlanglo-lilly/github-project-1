@@ -1,7 +1,10 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Vincent Langlois
+
+My name is Vince, and I have a dog named **Sully** and I'm currently reading _House of Leaves_
 
 ## Class Resources
 
